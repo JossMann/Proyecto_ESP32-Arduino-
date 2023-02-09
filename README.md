@@ -1,5 +1,5 @@
 # Proyecto_ESP32_Arduino
-<<<<<<<<<<<<Controlador MIDI conectado por Bluetooth>>>>>>>>>>>>
+Controlador MIDI conectado por Bluetooth
 
 ESTE SOFTWARE SE UTILIZA PARA RECIBIR LA INFORMACIÓN SERIAL DEL MICROCONTROLADOR EN LA COMPUTADORA
 https://projectgus.github.io/hairless-midiserial/
